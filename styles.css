@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+.wrapper{
+    width: 800px;
+    margin: auto;
+}
+h1{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 60pt;
+    text-align: center;
+    color: #c0392b;
+}
+p,li{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 13pt;
+    color: #34495e;
+}
+td > p {
+    margin: 5px 10px;
+}
+.header{
+    background: #c0392b;
+    width: 100%;
+    padding: 10px 0px;
+}
+.header:hover{
+    background: #e74c3c;
+}
+.aa{
+    text-decoration: none;
+}
+a > .header{
+    color: #c0392b;
+    font-size: 15pt;
+    color: #fff;            
+    text-align: center;
+}
+hr{    
+    margin-top: 20px;
+}
